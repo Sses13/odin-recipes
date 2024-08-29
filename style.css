@@ -1,0 +1,33 @@
+* {
+    font-family: Verdana, Times, serif;
+    background-color: rgb(199, 247, 180);
+}
+.head {
+   
+    color: white;
+}
+
+
+.head.first {
+    text-align: center;
+    font-size: 85px;
+    background-color: rgba(1, 19, 37, 0.904);
+}
+
+.head.second {
+    color: rgba(1, 19, 37, 0.904)
+}
+
+.listor {
+    font-size: 30px;
+    color: rgb(70, 120, 177);
+}
+
+.big-center {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
+    position: center;
+}
